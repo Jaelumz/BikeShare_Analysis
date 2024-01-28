@@ -1,5 +1,4 @@
-# Capstone-Project
-Bike Sharing Analysis & Trend Prediction  Project
+# Capstone-Project: Bike Sharing Analysis & Trend Prediction  Project
 
 Project Description
 
