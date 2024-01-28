@@ -28,7 +28,7 @@ Python is primarily used for the project and the following variables were used i
 
 ## Exploratory Data Analysis
 
-    -As earlier highlighted, this dataset contains 2200 rows and 8 columns. The column names in this dataset is as follows: Nitrogen (N), Phosphorus (P), Potassium (K), Ph, Temperature, Humidity and Rainfall.
+    -As earlier highlighted, this dataset contains 17414 rows and 10 columns. The column names in this dataset is as follows: Nitrogen (N), Phosphorus (P), Potassium (K), Ph, Temperature, Humidity and Rainfall.
 -7 of the 8 columns are numerical columns except for the target or label column.
     -The data set does not contain any missing values.
     -Using box plots to visualize the dataset, it can be observed that there seems to be lots of data points that at first glance, looks like "outliers" for all of the factors except nitrogen. However, upon further examination, this is due to the different optimal soil conditions for the different plants.
@@ -49,6 +49,13 @@ Python is primarily used for the project and the following variables were used i
         --Chickpea and Kidneabeans require the least humidity, around 20
         --Muskmelon requires the lowest rainfall at 25mm while rice has the highest at almost 250mm.
 
+-Below visualizations were created to provide insights to report consumers:
+    -- Total Number of Bike Rides
+    -- Moving Average Chart (main visual) with additional visuals in tooltip
+    -- Temperature vs Wind Speed Heat Map
+    -- Total bike rides split by weather and hour
+
+User-defined parameters are applied to Moving Average Chart to get insights on historical trends over time
 
 ## Findings
 
