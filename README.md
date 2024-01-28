@@ -1,6 +1,4 @@
 # Capstone-Project
-Final Capstone Project for Lighthouse Labs
-
 Bike Sharing Analysis & Trend Prediction  Project
 
 Project Description
