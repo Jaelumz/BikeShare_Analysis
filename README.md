@@ -12,19 +12,20 @@ An essential aspect involves analyzing ride patterns and weather conditions to i
 
 ## Dataset
 
-This project utilized an agricultural dataset that is open to the public and collected from Kaggle's website. The dataset contains 8 attributes or columns : 4 of which are related to the soil composition, 3 columns are related to climatic conditions and 1 columns for the label or target variable. The dataset also contains 2200 instances or rows. The label or target variable contains 22 distinct classes.
+This project utilized a bike sharing dataset that is open to the public and collected from Kaggle's website. The dataset contains 10 attributes or columns : 6 of which are related to the weather and seasonal conditions, 2 are related to time-event and periodic factors and 1 column for the count of rider bookings. The dataset also contains 17414 instances or rows. The label or target variable contains 11 distinct classes.
+The dataset includes information such as:
+Timestamp
+Number of bike rides
+Temperature_actual
+Temperature_feels
+Humidity %
+Wind speed
+Weather code
+Period identifiers – weekend, season, holiday
 
-Libraries used for analysis
-Python is primarily used for the project and the following variables were used in importing, exploring, visualizing and analysing the dataset.
--NumPy
--Pandas
--Seaborn
--Matplotlib
--Sklearn
--Ipywidgets
--Tableau
+Exploratory Data Analysis was done on the dataset, leveraging python with imported libraries and tableau for visualization of trends.
 
-## Exploratory Data Analysis
+## Process
 
     -As earlier highlighted, this dataset contains 17414 rows and 10 columns. The column names in this dataset is as follows: Nitrogen (N), Phosphorus (P), Potassium (K), Ph, Temperature, Humidity and Rainfall.
 -7 of the 8 columns are numerical columns except for the target or label column.
