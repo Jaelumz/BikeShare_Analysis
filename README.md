@@ -44,77 +44,11 @@ Exploratory Data Analysis was done on the dataset, leveraging python with import
         Utilized optimal visualizations to provide desired insights to consumers of the report to base their decisions.
 
 ## Findings
+-As earlier highlighted, 
 
 
-
-    -As earlier highlighted, this dataset contains 17414 rows and 10 columns. The column names in this dataset is as follows: Nitrogen (N), Phosphorus (P), Potassium (K), Ph, Temperature, Humidity and Rainfall.
--7 of the 8 columns are numerical columns except for the target or label column.
-    -The data set does not contain any missing values.
-    -Using box plots to visualize the dataset, it can be observed that there seems to be lots of data points that at first glance, looks like "outliers" for all of the factors except nitrogen. However, upon further examination, this is due to the different optimal soil conditions for the different plants.
-    -Each unique crop or distinct class of the target variable has 100 rows of data, representing 4.5% of the entire data set.
-    -The summary statistics for the dataset:
-        --Average Ratio of Nitrogen in the Soil: 50.55
-        --Average Ratio of Phosphorus in the Soil: 53.36
-        --Average Ratio of Potassium in the Soil: 48.15
-        --Average PH Value of the Soil: 6.47
-        --Average Temperature in Celsius: 25.62
-        --Average Relative Humidity in %: 71.48
-        --Average Rainfall in mm: 103.46
-    -We also discover the following facts:
-        --Cotton requires a very high ratio of nitrogen content in the soil.
-        --Grapes and Apples requires a very high ratio of phosphorus and potassium content in the soil.
-        --Most crops require a ph level between 6 and 7
-        --Most crops require temperatures above 20C with Papaya and Grapes needing the highest temperatures at above 30C.
-        --Chickpea and Kidneabeans require the least humidity, around 20
-        --Muskmelon requires the lowest rainfall at 25mm while rice has the highest at almost 250mm.
-
--Below visualizations were created to provide insights to report consumers:
-    -- Total Number of Bike Rides
-    -- Moving Average Chart (main visual) with additional visuals in tooltip
-    -- Temperature vs Wind Speed Heat Map
-    -- Total bike rides split by weather and hour
-
-User-defined parameters are applied to Moving Average Chart to get insights on historical trends over time
-
-## Findings
-
-    -Using KMeans and the Elbow method, I found the optimal number of clusters in the dataset to be 4.
-    -Therefore, this is the classification of the crops based on each cluster
-        --Cluster 1
-            ---Grapes
-            ---Apple
-        --Cluster 2
-            ---Maize
-            ---Chickpea
-            ---Kidneybeans
-            ---Pigeonpeas
-            ---Mothbeans
-            ---Mungbean
-            ---Blackgram
-            ---Lentil
-            ---Pomegranate
-            ---Mango
-            ---Orange
-            ---Papaya
-            ---Coconut
-        --Cluster 3
-            ---Maize
-            ---Banana
-            ---Watermelon
-            ---Muskmelon
-            ---Papaya
-            ---Cotton
-            ---Coffee
-        --Cluster 4
-            ---Rice
-            ---Pigeonpeas
-            ---Papaya
-            ---Coconut
-            ---Jute
-            ---Coffee
-    -Logistic regression was used in the building of the model because it works better in the case of likelihood and multiple labels.
-
-## Model Accuracy and Results
+## Results and Insights
+-Using
 
 
 ## Conclusion
