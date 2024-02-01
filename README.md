@@ -1,21 +1,14 @@
 # Bike Sharing Analysis & Trend Prediction Project
 
 ## Project Description
+Traditionally, bike sharing operations relied heavily on the widespread availability of bicycles at designated station hubs. However, the detrimental effects of seasonal variations and weather conditions on bike-share rentals have become more evident. As a result, service operators encounter difficulties in making informed decisions regarding the sustainable enhancement of first and last-mile connectivity to cater to demand, considering weather and seasonal influences. Simply purchasing bicycles en masse for year-round availability has proven ineffective.
+
 This project aims to provide insights into the intelligent management of a bike-sharing service using data components such as timestamp, number of bike rides, weather conditions (temperature, humidity, wind speed, weather code), and period identifiers (weekend, season, holiday). By analyzing this dataset, stakeholders can make informed decisions to optimize bike availability, improve customer experience, and enhance operational efficiency.
 
-
-Increase sustainability and increase first and last-mile connectivity
-
-
-Historically, agricultural practices were informed primarily by the empirical knowledge and hands-on expertise of farmers. However, the adverse impacts of climate change on crop yields have become increasingly apparent. Consequently, farmers face challenges in making informed decisions regarding crop selection based on soil and environmental factors. Manual methods of predicting suitable crops for a given piece of land often prove ineffective. The integration of machine learning has emerged as a pivotal solution in the realm of crop prediction, with the outcome significantly influencing crop production. The accuracy of crop prediction hinges upon the consideration of soil composition and climatic conditions.
-
-This project is focused on training a supervised machine learning model using Logistic Regression on existing soil and climatic conditions to predict the optimum crop to be planted based on any given soil and climatic condition.
-
 ## Introduction
+In the context of optimizing operational efficiency for "BikesR'Us" to meet demand, a critical determinant is its sustainable enhancement of first and last-mile service connectivity. However, a contemporary concern of paramount significan is the unprecendented changes in weather conditions and seasonal variations as well as other events. This has exerted a notable impact on the bike sharing industry, particularly in terms of growing demand for ridership subscription during off-peak periods. Given the constraints posed by huge influx of market competition, the feasibility of service expansion is constrained. Accordingly, there exists a compelling need for implementation of intelligent management strategy to optimize extant resources.
 
-In the context of a nation's development, a critical determinant is its capacity for efficient food production. Throughout successive generations, the cultivation of essential food crops has been integrally linked to the agricultural sector. However, a contemporary concern of paramount significance is the unprecedented rate of population growth. This demographic surge has exerted a notable impact on the agricultural landscape, particularly in terms of land utilization and fertility. Given the constraints posed by urbanization and globalization, the feasibility of expanding cultivated land is constrained. Accordingly, there exists a compelling need to strategically optimize extant resources.
-
-Predicting suitable crop for cultivation is an essential part of agriculture, with machine learning algorithms playing a major role in such prediction in recent years. In this era of technology and data science, the agricultural sector stands to benefit greatly from properly implemented techniques.
+Analyzing ride patterns and weather conditions to determine peak demand periods and locations is essential to ensure optimal bike availability; utilizing insights from data analysis to streamline operations, minimize downtime, and optimize resource allocation. Implementing predictive techniques to proactively address potential issues and enhance system reliability will be beneficial to the expansion plans of "BikesR'Us".
 
 ## Dataset
 
