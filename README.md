@@ -1,6 +1,11 @@
-# Capstone-Project: Bike Sharing Analysis & Trend Prediction  Project
+# Bike Sharing Analysis & Trend Prediction Project
 
 ## Project Description
+This project aims to provide insights into the intelligent management of a bike-sharing service using data components such as timestamp, number of bike rides, weather conditions (temperature, humidity, wind speed, weather code), and period identifiers (weekend, season, holiday). By analyzing this dataset, stakeholders can make informed decisions to optimize bike availability, improve customer experience, and enhance operational efficiency.
+
+
+Increase sustainability and increase first and last-mile connectivity
+
 
 Historically, agricultural practices were informed primarily by the empirical knowledge and hands-on expertise of farmers. However, the adverse impacts of climate change on crop yields have become increasingly apparent. Consequently, farmers face challenges in making informed decisions regarding crop selection based on soil and environmental factors. Manual methods of predicting suitable crops for a given piece of land often prove ineffective. The integration of machine learning has emerged as a pivotal solution in the realm of crop prediction, with the outcome significantly influencing crop production. The accuracy of crop prediction hinges upon the consideration of soil composition and climatic conditions.
 
