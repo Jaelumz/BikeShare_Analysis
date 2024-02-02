@@ -48,7 +48,8 @@ Exploratory Data Analysis was done on the dataset, leveraging python with import
 
 
 ## Results and Insights
--Using
+- Months like Dec, Jan and Feb sees less amount of booking. Incentives could be offerd to attract more customers to the bike sharing service. Working days sees more booking so we can provide an offer during weekends or holidays to bring in more bookings.
+- More users are booking the bike when humidity is less so we can provide offer to add a refreshment stand at the station hubs for subscribers during humid weather.
 
 
 ## Conclusion
