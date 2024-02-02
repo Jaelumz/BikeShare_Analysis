@@ -44,7 +44,11 @@ Exploratory Data Analysis was done on the dataset, leveraging python with import
         Utilized optimal visualizations to provide desired insights to consumers of the report to base their decisions.
 
 ## Findings
--As earlier highlighted, 
+The event periods that leads to more bikesharing bookings occurs on Non Holidays than a holiday, representing 97.78% of ridership bookings received.
+The time periods that get more bikesharing bookings occurs on non-weekends at rush hour periods and surge pricing could be applied for the service.
+The highest ratio of bookings are triggered when Weather conditions are clear, or scattered clouds or broken clouds which represents the best conditional factors to bike sharing usage.
+Average temperature required by most bike-sharing subscribers hovers around 13°to 15.5°celcius which represents 75% of the temperate range during bookings.
+Autumn season generates the highest demand for bike-sharing services followed by Summer with Low humidity being a conditional promoter that leads to rise in bookings.
 
 
 ## Results and Insights
